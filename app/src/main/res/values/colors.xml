@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4060a1</color>
+    <color name="colorPrimaryDark">#003772</color>
+    <color name="colorPrimaryLight">#728dd3</color>
+    <color name="colorAccent">#303f9f</color>
+
+    <color name="buttonBackground">#80b0bec5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+    <color name="buttonWiteBackground">#FFFFFF</color>
+    <color name="buttonWiteStroke">@color/colorPrimary</color>
+
+</resources>
